@@ -13,4 +13,5 @@ https://github.com/jgagerob/Zeitgeist_Icebreaker/pull/2
 Sarah North (snorth2):
 https://github.com/snorth2/german-loves-consonants/commit/d2c40f29c3c838b160a940e89a95a4037a66d41a
 
-
+Lizell Cabalquinto(lizelllee):
+https://github.com/olipunov/sauerkraut/pull/10
